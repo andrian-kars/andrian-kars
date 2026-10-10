@@ -15,9 +15,9 @@ Hi, I'm Andrian 👋 A senior full-stack engineer with 7+ years across enterpris
 
 ### Selected impact
 
-| $200K+ | 200%+ | ~40s → 15–18s | 9 → 1 |
+| $200K+ | 200%+ | ~40s&nbsp;→&nbsp;15–18s | 9&nbsp;→&nbsp;1 |
 | :-- | :-- | :-- | :-- |
-| engineering effort saved by stopping a risky architectural direction | faster CI/CD pipeline | Webpack build time | redundant UI renders |
+| engineering effort saved | faster CI/CD pipeline | Webpack build time | redundant UI renders |
 
 ### Stack
 
