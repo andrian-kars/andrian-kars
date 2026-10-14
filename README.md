@@ -31,3 +31,5 @@ Hi, I'm Andrian 👋 A senior full-stack engineer with 7+ years across enterpris
 ### On GitHub
 
 Most of my work lives in private enterprise repositories. Here you'll find **[personal](https://github.com/andrian-kars/personal)**, the source of [andrian-kars.com](https://andrian-kars.com): Next.js 16, React 19 and strict TypeScript, checked with Playwright and axe accessibility tests on every push.
+
+I also built **[sharkies](https://github.com/andrian-kars/sharkies)** ([live](https://andrian-kars.com/sharkies)), a film browser for shark, megalodon and giant-monster movies with live search across movies and series, English and Ukrainian, and Playwright tests on desktop and mobile. React, TypeScript and the TMDB API.
